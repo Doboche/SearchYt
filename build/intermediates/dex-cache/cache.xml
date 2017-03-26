@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\f25efdc96ca156415bc5a8a69fba939759732f62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_c733bd0443f42fa9eb633fd7ba9175f6c5e520f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\f3ce8a1851585c1d9520e22dcc1bb3205d9205bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_400c8d46bf706221a63956a9c4f4d2c32f205dba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\15ec41d307885f25dfd01e3074e69fbe4afa895b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_9a159cb9379c6e35427bf40ac0f8b906ab63e15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_a2a32735bfcc4334db994dfaea04760b8d8f2efe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\5328d2e0e642a9cc379ab6c8ddd6b1476e980fbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_76ddc42f87c16a27b4dc3d31b8b61514b1732761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\6d9daa4fa01bc21c6beae4b09310bb7927710bd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_2aaa90e1f4a6c31f8fc615c19186b71ee4dbd62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\39550cc431f136a06e4a0da211fb7fd45d58c64a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_861a3c165b6861b34b6b9c837520f8e419e0222b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\b1aa7557dd7549ec9244c8791c59df48b25c9ed4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_c6e80045989f42b551fc05e89f0cbe1eab4fc81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\5bdda6dcf3873889d1e05857d5c2fbe8dacd72b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_57dde9cd831ef1eef35a0a6ac77f634f3b5c485c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\82f17cbb68baf0df464f1434cdfbd97a0c28b36b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_c0e6545587f62bdacc7c2eb355f9939bf0dd713e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\gson-2.8.0_367ee8d0ad8a6138bcecff941055a2ad008ff394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_d00dcfeef46800690ad7ffbdcea600917ebfd9c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\fc367febe601f4e8885b58064b003dc38fc78fbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_9e768440c7281375945f3fa9239d298270f88426.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dorian\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_d00dcfeef46800690ad7ffbdcea600917ebfd9c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\0179ecab5bcdae47262fee5a6cc0045ff6fb54b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_f9f6326a11fac72bc53c23b7f304429a91eb9c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\0965a48f69cdd98445920036519096b6dcffec8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_1ee79311d5bfca51d9398afae035c59aa6882805.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac586bc9e48120e82d67565cd68f32c0a76a9ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\9a98616d2917cca9f649ca7db5febcce87407d2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_0deda4148b87ef5a88a92cf38a4abdb235f9ff73.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_fa4921f56bd6dfda141788b5a7cb9faba82250e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_33db8a6cde06e38df3813c96212cfd54b026f979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\1a9050e1bfa171ca630ad72d78bf15a2c3f5f088\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_d1b232864140ad3c8b69543695ae3c341302e5c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05969b72e2aa940a7bf9524c16071f4ab3b3d60f">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_702b0a2d3caca2b9067aa10adf7bdb37dec5278d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\08c7e78fa0bb96261aed73ea16d149b7065d70ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_beb2e686d7508dd7b33083861ebc6112a07428f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\bb18d9bd2ea74b488c9a69ff562a24f54dffd44d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_460fd9c98693e980fc58adc5b810593f436c5912.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\9b16c073d9c1982c3414d4c13d4bb9603d737b87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_d92683a3858457b692b3dc53cdb37637ef261d02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\b77bbd51dc2cbcf46058f73adfa15b0444d01609\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_f383e76fa6d0cf21687579064547c4095502e1a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dorian\.android\build-cache\990d6714c59cae802453a8cf93d818462cc03c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Dorian\AndroidStudioProjects\TDNote\app\build\intermediates\pre-dexed\debug\classes_83819c7e6fad010179046ab4aad17adc17e33fe0.jar" />
+    </item>
+
+</items>
